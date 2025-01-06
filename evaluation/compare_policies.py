@@ -6,8 +6,8 @@ sys.path.append(os.getcwd())
 path = Path(os.getcwd())
 sys.path.append(str(path.parent.absolute()))
 
-# Output average initial value estimations for CQL, DeepVent- and physician (mean and variance over 5 runs)
-# (Corresponds to Table 1 in DeepVent paper)
+# Output average initial value estimations for CQL, ConformalDQN and physician (mean and variance over 5 runs)
+# (Corresponds to Table 2 in ConformalDQN paper/ Table 1 in Deepvent paper)
 import numpy as np
 
 from estimator import PhysicianEstimator, get_final_estimator

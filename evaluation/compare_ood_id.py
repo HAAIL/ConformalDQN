@@ -1,4 +1,4 @@
-# Make Out of Distribution vs. In Distribution value estimation plot for DeepVent and DDQN (Figure 4 in DeepVent paper)
+# Make Out of Distribution vs. In Distribution value estimation plot for ConformalDQN and DDQN (Figure 4 in ConformalDQN/DeepVent paper)
 
 # importing
 import sys
