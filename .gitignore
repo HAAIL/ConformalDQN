@@ -1,9 +1,0 @@
-/data/*
-.idea/*
-/env/*
-/models/CQL.py
-/models/DQN.py
-/models/DQN.py
-/results/*
-/training/experiments.txt
-/experiments.txt
